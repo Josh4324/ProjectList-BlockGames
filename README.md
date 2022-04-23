@@ -41,4 +41,7 @@ https://github.com/Blockchamp/Library-Fe/commit/e269faac736af62235fb4517c90ed4f5
 Voting System
 
 Manage Voting
-https://github.com/Josh4324/Voting-Blockchain/pull/3/commits/54ead245ad5ee037dbdb8154c09802f3d86e5774
+https://github.com/Josh4324/Voting-Blockchain/pull/3/commits/54ead245ad5ee037dbdb8154c09802f3d86e5774 
+
+FE integration
+https://github.com/Josh4324/Voting-Fe/pull/2/commits/681d853a3fcf8d664aa01887925c19c2dc4accb1
